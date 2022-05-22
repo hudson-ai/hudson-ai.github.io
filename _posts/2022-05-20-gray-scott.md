@@ -2,7 +2,7 @@
 layout: post
 title:  "Reaction Diffusion"
 date:   2022-05-20 22:59:20 -0700
-categories: reaction diffusion
+categories: simulations
 ---
 
 <script src="https://rawgit.com/processing-js/processing-js/master/processing.min.js"></script>
