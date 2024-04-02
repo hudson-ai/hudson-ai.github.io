@@ -11,6 +11,9 @@ GenAI models in general, and LLMs in particular, are "text-in text-out".
 
 Why is this a problem? Putting myself at risk of angering the UNIX nerds out there... _text doesn't compose_. Well, _unstructured_ text doesn't compose.
 
+The "Please Monad"
+str -> Please(address)
+
 What do I mean by that?
 
 Say we have a document that contains one or more street addresses, and we want to "extract" those addresses so we can send each one a postcard.
