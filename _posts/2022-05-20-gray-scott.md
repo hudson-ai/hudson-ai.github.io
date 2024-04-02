@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Reaction Diffusion"
 date:   2022-05-20 22:59:20 -0700
 categories: simulations
